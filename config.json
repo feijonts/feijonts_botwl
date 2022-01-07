@@ -5,12 +5,12 @@
 
     "msgOn": "O bot de whitelist esta ligado!",
 
-    "guildID": 834203415852220468,
-    "canalLogID": 922607608718848071,
-    "commandsChannel": 922607550095056947,
-    "canalresultados": 922607562875088917,
-    "everyone": 834203415852220468,
-    "nameaprovado": "Membro",
-    "namevisitante": "Visitante",
-    "categoria": "whitelist"
+    "guildID": ,
+    "canalLogID": ,
+    "commandsChannel": ,
+    "canalresultados": ,
+    "everyone": ,
+    "nameaprovado": "",
+    "namevisitante": "",
+    "categoria": ""
 }
