@@ -1,0 +1,17 @@
+{
+
+    "prefix": "!",
+    "botKey": "OTIyNjA5ODgzNjA4NjQ1NjUy.YcD9aQ.mNpRb0DC6445cXNLk-5c4W0PsBo",
+
+    "msgOn": "O bot de whitelist esta ligado!",
+
+    "guildID": 834203415852220468,
+    "canalLogID": 922607608718848071,
+    "commandsChannel": 922607550095056947,
+    "canalresultados": 922607562875088917,
+    "everyone": 834203415852220468,
+    "nameaprovado": "Membro",
+    "namevisitante": "Visitante",
+    "categoria": "whitelist"
+}
+
